@@ -26,3 +26,4 @@ n1 = leiaInt('Informe um número inteiro: ')
 n2 = leiaFloat('Informe um número real: ')
 print(f"Inteiro: {n1}")
 print(f"Real: {n2}")
+
